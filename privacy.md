@@ -71,4 +71,4 @@ If this policy changes, the new version is published at this address with a new 
 
 ## Contact
 
-Questions about this policy or about your data: [owner's contact email]
+Questions about this policy or about your data: feelgood.app.support@gmail.com

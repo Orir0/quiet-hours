@@ -68,4 +68,4 @@ No. There is no account, no server, no analytics and no advertising. Details are
 
 ## Contact
 
-Problems, questions or ideas: [owner's contact email]
+Problems, questions or ideas: feelgood.app.support@gmail.com
