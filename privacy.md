@@ -23,6 +23,8 @@ Feel Good is a mood diary for iPhone. It asks how you feel a few times a day, re
 
 **A few settings.** Whether you have seen the introduction, whether sample data is switched on, whether Health is connected and when it last synced, and the step size app tracking uses.
 
+**Use counts.** How many times each tab and each feature was used, and whether the introduction was read to the end or skipped, as numbers only. They are behind the Usage summary page under Settings, which shows them as a short text you can send if you choose.
+
 Earlier versions had a field for typing your total screen time by hand. If you used it, those numbers are still stored for the days you entered them.
 
 ## Where it is stored
@@ -36,6 +38,8 @@ The app does not use iCloud. Your phone's own backups (iCloud Backup or a backup
 Nothing. Feel Good has no server and no account. It does not use the network. It contains no analytics, no advertising and no third-party code that reports anything. The developer cannot see your data.
 
 The one exception is outside the app: if you have turned on "Share with App Developers" under Settings > Privacy & Security > Analytics & Improvements, Apple may send the developer a crash report when the app crashes. Those reports come from Apple, contain technical details about the crash, and contain none of your check-ins, Health data or app counts.
+
+The other exception is yours to make. The Usage summary page under Settings shows the use counts as a short text and offers to send it. It goes only where you send it, through the share sheet, and only when you tap Send. It contains no check-ins, no Health numbers, no app names and no minutes.
 
 ## Permissions, and how to withdraw each one
 
