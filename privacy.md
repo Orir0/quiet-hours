@@ -7,7 +7,7 @@ permalink: /privacy/
 
 Effective date: 2 November 2026
 
-Feel Good is a mood diary for iPhone. It asks how you feel a few times a day, reads the health data your phone already has, and after three weeks shows which of those signals move with your mood. This page says exactly what the app keeps, where, and what leaves your phone. The short version: everything stays on your phone, and nothing leaves it.
+Feel Good is a mood diary for iPhone. It asks once each evening how you feel, how your energy was and how well the day went, reads the health data your phone already has, and after three weeks shows which of those signals move with your mood. This page says exactly what the app keeps, where, and what leaves your phone. The short version: everything stays on your phone, and nothing leaves it.
 
 ## What the app stores
 
