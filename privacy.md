@@ -13,7 +13,7 @@ Quiet Hours helps you spend less time in the apps you choose. You set quiet hour
 
 **The apps you choose.** You pick apps in Apple's picker, and iOS counts your minutes in each of them, in 5-minute steps; Quiet Hours stores one number per app per day. The app does not know which apps you picked: iOS hands it an opaque token for each one, and only iOS can draw the app's name and icon on screen. Inside Quiet Hours each app is just "App 1", "App 2" and so on. The app is never told what you did inside any app, only when your daily total crossed a 5-minute mark.
 
-**Your plan.** Up to three quiet-hours windows, each with its hours, the days it runs, which of your chosen apps it closes, how many breaks it allows and how long each one lasts. A change that loosens a window while it runs is kept beside the plan until it takes effect.
+**Your plan.** Up to ten quiet-hours windows, each with its hours, the days it runs, which of your chosen apps it closes, how many breaks it allows and how long each one lasts. A change that loosens a window while it runs is kept beside the plan until it takes effect.
 
 **Quiet hours.** In each window, Quiet Hours asks iOS to show a Quiet hours screen over that window's apps. That is a Screen Time restriction on your own phone, set by you alone. What you write when you ask for a break is not kept.
 
